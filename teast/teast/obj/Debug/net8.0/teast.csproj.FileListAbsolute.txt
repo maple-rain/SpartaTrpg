@@ -1,0 +1,14 @@
+C:\Users\AAAAAAA\source\repos\teast\teast\bin\Debug\net8.0\teast.exe
+C:\Users\AAAAAAA\source\repos\teast\teast\bin\Debug\net8.0\teast.deps.json
+C:\Users\AAAAAAA\source\repos\teast\teast\bin\Debug\net8.0\teast.runtimeconfig.json
+C:\Users\AAAAAAA\source\repos\teast\teast\bin\Debug\net8.0\teast.dll
+C:\Users\AAAAAAA\source\repos\teast\teast\bin\Debug\net8.0\teast.pdb
+C:\Users\AAAAAAA\source\repos\teast\teast\obj\Debug\net8.0\teast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AAAAAAA\source\repos\teast\teast\obj\Debug\net8.0\teast.AssemblyInfoInputs.cache
+C:\Users\AAAAAAA\source\repos\teast\teast\obj\Debug\net8.0\teast.AssemblyInfo.cs
+C:\Users\AAAAAAA\source\repos\teast\teast\obj\Debug\net8.0\teast.csproj.CoreCompileInputs.cache
+C:\Users\AAAAAAA\source\repos\teast\teast\obj\Debug\net8.0\teast.dll
+C:\Users\AAAAAAA\source\repos\teast\teast\obj\Debug\net8.0\refint\teast.dll
+C:\Users\AAAAAAA\source\repos\teast\teast\obj\Debug\net8.0\teast.pdb
+C:\Users\AAAAAAA\source\repos\teast\teast\obj\Debug\net8.0\teast.genruntimeconfig.cache
+C:\Users\AAAAAAA\source\repos\teast\teast\obj\Debug\net8.0\ref\teast.dll
