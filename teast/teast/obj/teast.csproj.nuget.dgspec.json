@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AAAAAAA\\source\\repos\\teast\\teast\\teast.csproj": {}
+    "C:\\Users\\AAAAAAA\\Documents\\GitHub\\SpartaTrpg\\teast\\teast\\teast.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AAAAAAA\\source\\repos\\teast\\teast\\teast.csproj": {
+    "C:\\Users\\AAAAAAA\\Documents\\GitHub\\SpartaTrpg\\teast\\teast\\teast.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AAAAAAA\\source\\repos\\teast\\teast\\teast.csproj",
+        "projectUniqueName": "C:\\Users\\AAAAAAA\\Documents\\GitHub\\SpartaTrpg\\teast\\teast\\teast.csproj",
         "projectName": "teast",
-        "projectPath": "C:\\Users\\AAAAAAA\\source\\repos\\teast\\teast\\teast.csproj",
+        "projectPath": "C:\\Users\\AAAAAAA\\Documents\\GitHub\\SpartaTrpg\\teast\\teast\\teast.csproj",
         "packagesPath": "C:\\Users\\AAAAAAA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AAAAAAA\\source\\repos\\teast\\teast\\obj\\",
+        "outputPath": "C:\\Users\\AAAAAAA\\Documents\\GitHub\\SpartaTrpg\\teast\\teast\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AAAAAAA\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("teast")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f6622e17e6480f383a4e1cea11f17e8154a32e8b")]
 [assembly: System.Reflection.AssemblyProductAttribute("teast")]
 [assembly: System.Reflection.AssemblyTitleAttribute("teast")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

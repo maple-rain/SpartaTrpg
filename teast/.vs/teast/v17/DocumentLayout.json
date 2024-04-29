@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\AAAAAAA\\source\\repos\\teast\\",
+  "WorkspaceRootPath": "C:\\Users\\AAAAAAA\\Documents\\GitHub\\SpartaTrpg\\teast\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9205E69C-27C5-4455-9660-EBA958329CF1}|teast\\teast.csproj|c:\\users\\aaaaaaa\\source\\repos\\teast\\teast\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9205E69C-27C5-4455-9660-EBA958329CF1}|teast\\teast.csproj|c:\\users\\aaaaaaa\\documents\\github\\spartatrpg\\teast\\teast\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9205E69C-27C5-4455-9660-EBA958329CF1}|teast\\teast.csproj|solutionrelative:teast\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\AAAAAAA\\source\\repos\\teast\\teast\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\AAAAAAA\\Documents\\GitHub\\SpartaTrpg\\teast\\teast\\Program.cs",
               "RelativeDocumentMoniker": "teast\\Program.cs",
-              "ToolTip": "C:\\Users\\AAAAAAA\\source\\repos\\teast\\teast\\Program.cs",
+              "ToolTip": "C:\\Users\\AAAAAAA\\Documents\\GitHub\\SpartaTrpg\\teast\\teast\\Program.cs",
               "RelativeToolTip": "teast\\Program.cs",
-              "ViewState": "AQIAAJgAAAAAAAAAAAAgwLsAAAAzAAAA",
+              "ViewState": "AQIAAI8AAAAAAAAAAAAgwJ4AAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-23T22:33:12.383Z",
               "EditorCaption": ""

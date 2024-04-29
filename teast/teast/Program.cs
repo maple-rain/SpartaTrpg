@@ -156,7 +156,7 @@ namespace Dungeon
             private void Equipment()
             {
                 Console.WriteLine("\n장착 관리");
-                Console.WriteLine("아이템 번호를 입력하여 장착 또는 해제하세요.");
+                
                 Console.WriteLine("0. 나가기");
                 for (int i = 0; i < InventoryList.Count; i++)
                 {
